@@ -1,0 +1,12 @@
+{
+  "name": "sst-gcp",
+  "type": "module",
+  "devDependencies": {
+    "@pulumi/gcp": "7.32.0",
+    "sst": "ion",
+    "typescript": "5.5.3"
+  },
+  "trustedDependencies": [
+    "protobufjs"
+  ]
+}

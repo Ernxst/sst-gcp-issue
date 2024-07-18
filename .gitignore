@@ -1,0 +1,13 @@
+# sst
+.sst
+
+# env
+.env
+.env.*
+!.env.example
+
+# dependencies
+node_modules
+
+# macOS
+.DS_Store
